@@ -1,0 +1,25 @@
+.container {
+  border-style: solid;
+  width: 900px;
+  margin-top: 80px;
+  padding: 20px 20px 20px 20px;
+}
+.data {
+  text-align: right;
+}
+.city {
+  margin-top: 0px;
+}
+.weather .Sun {
+  position: relative;
+  top: -20px;
+}
+.weather .Wind {
+  position: relative;
+  left: -50px;
+}
+.weather .Humidity {
+  position: relative;
+  left: -145px;
+  top: 20px;
+}
